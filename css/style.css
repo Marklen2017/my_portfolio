@@ -690,6 +690,8 @@ h3.my-profession {
 .info-item p a {
     color: var(--text-black-700);
     font-weight: 400;
+    width: 100%;
+    max-width: 130px;
 }
 .contact .contact-info-item .icon {
     display: inline-block;
